@@ -16,7 +16,7 @@ mathjax対応markdownエディターでの数式と化学式の
 
 ## Licence
 
-[MIT](https://github.com/hyuji946//markdown/LICENCE.txt)
+[MIT](https://github.com/hyuji946/markdown/LICENCE.txt)
 
 ## Author
 
