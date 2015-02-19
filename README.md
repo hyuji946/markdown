@@ -11,12 +11,12 @@ With `$\require{mhchem}$`
 
 mathjax対応markdownエディターでの数式と化学式の  
 書き方の解説。  
-+ [数式の書き方](https://github.com/hyuji946/mathjax.md)  
-+ [化学式の書き方](https://github.com/hyuji946/mhchem.md)  
++ [数式の書き方](https://github.com/hyuji946/markdown/mathjax.md)  
++ [化学式の書き方](https://github.com/hyuji946/markdown/mhchem.md)  
 
 ## Licence
 
-[MIT](https://github.com/hyuji946/LICENCE.txt)
+[MIT](https://github.com/hyuji946//markdown/LICENCE.txt)
 
 ## Author
 
